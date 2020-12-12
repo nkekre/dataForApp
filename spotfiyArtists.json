@@ -29,8 +29,9 @@
         }
       ],
       "name": "Brent Faiyaz",
-      "popularity": 79,
+      "popularity": "79",
       "type": "artist",
+      "about": "Brent Faiyaz is a contemporary R&B singer, songwriter, and producer whose sly vocals, frequently applied to atmospheric slow jam productions, resemble a distinctive cross between Slim (of 112) and the Weeknd. Active since the mid-2010s as a solo artist and as one-third of Sonder, he made a major commercial breakthrough with a featured appearance on GoldLink's multi-platinum, Grammy-nominated 'Crew' (2016).",
       "uri": "spotify:artist:3tlXnStJ1fFhdScmQeLpuG"
     },
     {
@@ -66,8 +67,9 @@
         }
       ],
       "name": "Drake",
-      "popularity": 97,
+      "popularity": "97",
       "type": "artist",
+      "about": "Canadian rapper and vocalist Drake sustained a high-level commercial presence shortly after he hit the scene in 2006, whether with his own chart-topping releases or a long string of guest appearances on hits by the likes of Lil Wayne, Rihanna, and A$AP Rocky. Thanks to his introspective rap style, his sensitive R&B crooning, and his gold-touch songwriting, each one of his albums -- from 2011's Take Care to 2018's Scorpion -- topped charts worldwide, and singles like the Grammy-winning 'Hotline Bling' and many of his mixtapes did too. ",
       "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
     },
     {
@@ -101,8 +103,9 @@
         }
       ],
       "name": "SZA",
-      "popularity": 82,
+      "popularity": "82",
       "type": "artist",
+      "about": "A distinct force in contemporary R&B, SZA has set herself apart with a vulnerable and casually poetic songwriting style and a voice conveying a multitude of emotions with subtle twists and turns. She established herself with a trio of spaced-out EPs and collaborations with the likes of Kendrick Lamar, Nicki Minaj, and Rihanna, and continued her ascent with Ctrl (2017), a Top Ten album that resulted in five Grammy nominations, including Best New Artist.",
       "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
     },
     {
@@ -137,8 +140,9 @@
         }
       ],
       "name": "Kehlani",
-      "popularity": 80,
+      "popularity": "80",
       "type": "artist",
+      "about": "Forthright R&B singer and songwriter Kehlani became known during the mid-2010s for her modern twist on the pop-R&B and neo-soul figures -- from TLC and Brandy to Lauryn Hill and Jill Scott -- whose work she absorbed as a youngster. The Bay Area artist's self-released mixtape Cloud 19 (2014) paved the way for the Grammy-nominated You Should Be Here (2015), a deal with Atlantic Records, and her Top Ten debut album, SweetS***Savage (2017), the source of her second Grammy-nominated recording, 'Distraction.'",
       "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
     },
     {
@@ -172,8 +176,9 @@
         }
       ],
       "name": "Kid Cudi",
-      "popularity": 82,
+      "popularity": "82",
       "type": "artist",
+      "about": "Kid Cudi is a Brooklyn-based rapper from Cleveland whose debut single, 'Day n Nite', became an online favorite in 2008. Born Scott Ramon Seguro Mescudi in suburban Cleveland, his career took off after he moved to Brooklyn and became affiliated with Fool's Gold, the label of DJs A-Trak and Nick Catchdubs. The label released the Day 'n' Nite EP in February 2008 and circulated a Crookers remix around the blogosphere, drumming up a good deal of buzz in the process.",
       "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
     },
     {
@@ -209,8 +214,9 @@
         }
       ],
       "name": "ZAYN",
-      "popularity": 82,
+      "popularity": "82",
       "type": "artist",
+      "about": "Zayn Malik is best known as one of the founding members of the boy-band-of-a-generation One Direction. Born Zain Javadd Malik on January 12, 1993 in the working-class town of Bradford in West Yorkshire, England, Zayn honed his vocal talents and stage command at a young age. In 2010, he auditioned for The X Factor but was eliminated (along with his future One Direction bandmates, who also auditioned solo). The quintet was later brought back as a group and Simon Cowell dubbed them One Direction. Despite finishing in third place, their popularity exploded and would not slow their trajectory until the very end.",
       "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
     },
     {
@@ -245,8 +251,9 @@
         }
       ],
       "name": "Jhené Aiko",
-      "popularity": 82,
+      "popularity": "82",
       "type": "artist",
+      "about": "Easily identified by her light but expressive soprano and nuanced manner of conveying emotional extremes from distress to bliss, Jhené Aiko has been among contemporary R&B's most prominent artists since the early 2010s. The singer and songwriter made inroads the preceding decade as an associate of B2K and hit her stride as a solo artist in 2013.",
       "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
     },
     {
@@ -277,8 +284,9 @@
         }
       ],
       "name": "Travis Scott",
-      "popularity": 93,
+      "popularity": "93",
       "type": "artist",
+      "about": "A Houston-born hip-hop artist and producer affiliated with Kanye West's GOOD Music and T.I.'s Grand Hustle, Travis Scott became known during the early 2010s for his heavily Auto-Tuned half-sung/half-rapped vocal style.",
       "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
     },
     {
@@ -313,8 +321,9 @@
         }
       ],
       "name": "Beyoncé",
-      "popularity": 87,
+      "popularity": "87",
       "type": "artist",
+      "about": "One of the most recognizable figures in contemporary music, Beyoncé rose to fame in the late '90s as the central member of pop-R&B group Destiny's Child, and the following decade embarked on a multi-platinum, record-breaking solo career with Dangerously in Love (2003), her first in an unbroken string of number one pop solo albums.",
       "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
     },
     {
@@ -352,8 +361,9 @@
         }
       ],
       "name": "Rihanna",
-      "popularity": 89,
+      "popularity": "89",
       "type": "artist",
+      "about": "Rihanna established her pop credentials in 2005 with 'Pon de Replay', a boisterous debut single that narrowly missed the top of the Billboard Hot 100 and fast-tracked her to becoming one of the most popular, acclaimed, and dynamic artists in postmillennial contemporary music. Mixing and matching pop, dancehall, R&B, EDM, and adult contemporary material, Rihanna has been a near-constant presence in the upper reaches of the pop chart.",
       "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
     },
     {
@@ -388,8 +398,9 @@
         }
       ],
       "name": "Frank Ocean",
-      "popularity": 85,
+      "popularity": "85",
       "type": "artist",
+      "about": "Frank Ocean has been one of the more fascinating figures in contemporary music since his early-2010s arrival. A singer and songwriter whose artful output has defied rigid classification as R&B, he has nonetheless pushed that genre forward with seemingly offhanded yet imaginatively detailed narratives in which he has alternated between yearning romantic and easygoing braggart.",
       "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
     }
   ],
