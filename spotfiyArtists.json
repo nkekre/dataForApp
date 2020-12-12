@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1123679
+        "total": 1126368
       },
       "genres": [
         "dmv rap",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 51247273
+        "total": 51267015
       },
       "genres": [
         "canadian hip hop",
@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3962862
+        "total": 3967234
       },
       "genres": [
         "dance pop",
@@ -120,7 +120,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4117110
+        "total": 4120355
       },
       "genres": [
         "dance pop",
@@ -159,7 +159,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4240000
+        "total": 4278437
       },
       "genres": [
         "hip hop",
@@ -197,7 +197,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13716004
+        "total": 13726531
       },
       "genres": [
         "dance pop",
@@ -237,7 +237,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3926535
+        "total": 3930208
       },
       "genres": [
         "alternative r&b",
@@ -269,6 +269,161 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      "followers": {
+        "href": null,
+        "total": 13985055
+      },
+      "genres": [
+        "rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ef784cfa3f4f87d656d3dfa5eedf0a24610faba9",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/5801b0d47fbf34b228a1f800bb36a58eced54796",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/a707baf8df8743deee2b449dec59e417c7b0ff65",
+          "width": 160
+        }
+      ],
+      "name": "Travis Scott",
+      "popularity": 93,
+      "type": "artist",
+      "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "followers": {
+        "href": null,
+        "total": 25324245
+      },
+      "genres": [
+        "dance pop",
+        "pop",
+        "pop dance",
+        "post-teen pop",
+        "r&b"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id": "6vWDO969PvNqNYHIOW5v0m",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ad8b0e5a18a5a443a2678768bd73f59833941abc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/802895be7bc5339087ba36194b0b7307c467df96",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/a932ba0a31bd2807fe76c77b64c680bec2f3d14a",
+          "width": 160
+        }
+      ],
+      "name": "Beyoncé",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "followers": {
+        "href": null,
+        "total": 40173872
+      },
+      "genres": [
+        "barbadian pop",
+        "dance pop",
+        "pop",
+        "pop dance",
+        "pop rap",
+        "post-teen pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id": "5pKCCKE2ajJHZ9KAiaK11H",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1fc2f537d678d701d7d143a8fd4f0c2f29fbde22",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/e8a018bfd60bf25519fd4dc8ca941263afa66651",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/9dfb8baea10b330f5400922ec4d40d01922e805b",
+          "width": 160
+        }
+      ],
+      "name": "Rihanna",
+      "popularity": 89,
+      "type": "artist",
+      "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+      },
+      "followers": {
+        "href": null,
+        "total": 6820634
+      },
+      "genres": [
+        "alternative r&b",
+        "hip hop",
+        "lgbtq+ hip hop",
+        "neo soul",
+        "pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+      "id": "2h93pZq0e7k5yf4dywlkpM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7db34c8aace6feb91f38601bb75e6b3301b4657a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/0cc22250c0b18183e5c62f240a5756ec5226dee1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/e42028e7fe5a7ba790b5b4e7b096b06bf3319443",
+          "width": 160
+        }
+      ],
+      "name": "Frank Ocean",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
     }
   ],
   "status": "OK"
